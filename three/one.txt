@@ -1,1 +1,2 @@
 hii this a new file as one.txt 
+a new line is added to commit it.
